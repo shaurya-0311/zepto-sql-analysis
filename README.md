@@ -1,4 +1,4 @@
-# Zepto Inventory Data Analysis (SQL Project)
+# Zepto Inventory Data Analysis
 
 ## Project Overview
 
@@ -79,6 +79,3 @@ During this project I used several important SQL concepts including:
 
 ---
 
-## Author
-
-Shaurya Sharma
